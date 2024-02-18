@@ -1,3 +1,10 @@
 
 .Rproj.user/
 .hugo_build.lock
+
+.DS_Store
+Thumbs.db
+
+# files ignore as Netlify build website
+/public/
+/resources/
