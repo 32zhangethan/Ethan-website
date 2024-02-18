@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: /
 title: Ethan's blog
 theme: hugo-theme-m10c
 paginate: 8
