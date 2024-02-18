@@ -1,0 +1,17 @@
+---
+title: 2nd plot
+author: Ethan
+date: '2024-02-17'
+slug: []
+categories:
+  - Mercury
+tags:
+  - R Markdown
+---
+
+
+```r
+pie( c(85,10,5), labels=c("85%Core","10%Mantle","5%crust") )
+```
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
