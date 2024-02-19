@@ -1,0 +1,16 @@
+---
+title: Earth
+author: Ethan
+date: '2024-02-18'
+slug: []
+categories:
+  - Earth
+tags:
+  - R Markdown
+---
+
+Earth
+
+```{r}
+pie(c(55,40,5),Label=c("core55%","mantle40%","crust5%"))
+```
